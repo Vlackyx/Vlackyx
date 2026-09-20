@@ -1,8 +1,8 @@
-<div align = "center">
-<img src="https://github.com/Vlackyx" width="250" height="250"/>
-  
-  # Hello World!👋 I'm Vladimir Mompoint
-</div>   
+<div align="center">
+  <img src="https://github.com/Vlackyx.png" width="250" height="250"/>
+
+  # Hello World! 👋 I'm Vladimir Mompoint
+</div>
 
 # 💫 About Me:
 👨‍💻 I'm Vladimir Mompoint, a Software Engineering graduate.<br>
